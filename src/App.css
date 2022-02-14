@@ -50,3 +50,11 @@ address{
 #leader-subtitle {
     margin-bottom: 10px;
 }
+
+.comment-label {
+    margin-top: 20px;
+}
+
+#comment-button {
+    margin-top: 20px;
+}
